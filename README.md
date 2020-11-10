@@ -1,2 +1,5 @@
-# pdfgenerator
-mpdf with php7.4
+About
+============
+
+This is the latest mpdf 6 compatibility with PHP7.4
+
