@@ -1,7 +1,7 @@
 About
 ============
 
-This is the latest mpdf 6 compatibility with PHP7.4
+This is the latest mpdf 6 compatibility with PHP7.4 modified on 19 Oct 2020
 
 fixed the below four warnings which appeared in the mpdf class file:
 
